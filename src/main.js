@@ -25,13 +25,13 @@ export default {
       backgroundColor: '#ffffff',
       list: [{
         pagePath: 'pages/index/main',
-        iconPath: 'image/icon_component.png',
-        selectedIconPath: 'image/icon_component_HL.png',
+        iconPath: 'static/image/icon_component.png',
+        selectedIconPath: 'static/image/icon_component_HL.png',
         text: '组件'
       }, {
         pagePath: 'pages/logs/main',
-        iconPath: 'image/icon_component.png',
-        selectedIconPath: 'image/icon_component_HL.png',
+        iconPath: 'static/image/icon_component.png',
+        selectedIconPath: 'static/image/icon_component_HL.png',
         text: '接口'
       }]
     }
